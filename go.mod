@@ -11,12 +11,12 @@ require (
 	github.com/shopspring/decimal v1.3.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/twmb/franz-go v1.4.2
-	github.com/twmb/franz-go/pkg/kadm v0.0.0-20220319065723-845bc50e6da0
+	github.com/twmb/franz-go/pkg/kadm v0.0.0
 	github.com/volatiletech/null/v9 v9.0.0
 	go.mongodb.org/mongo-driver v1.8.4
 	google.golang.org/grpc v1.45.0
 	google.golang.org/protobuf v1.27.1
-	gopkg.in/mgo.v2 v2.0.0-20190816093944-601881d815e8ff25d2849e5df569840ecdd0075d
+	gopkg.in/mgo.v2 v2.0.0
 	gorm.io/driver/postgres v1.3.1
 	gorm.io/gorm v1.23.3
 )
