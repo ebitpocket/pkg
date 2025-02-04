@@ -1,4 +1,4 @@
-module github.com/nusa-exchange/pkg
+module github.com/ebitpocket/pkg
 
 go 1.18
 
