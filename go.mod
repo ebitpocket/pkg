@@ -10,7 +10,7 @@ require (
 	github.com/hashicorp/vault/api v1.4.1
 	github.com/shopspring/decimal v1.3.1
 	github.com/sirupsen/logrus v1.8.1
-	github.com/twmb/franz-go v1.4.2
+	github.com/twmb/franz-go v1.12.0
 	github.com/twmb/franz-go/pkg/kadm v1.4.0
 	github.com/volatiletech/null/v9 v9.0.0
 	go.mongodb.org/mongo-driver v1.8.4
